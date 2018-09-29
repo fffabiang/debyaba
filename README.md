@@ -4,3 +4,4 @@ Videojuego para el curso de Algoritmia 2016-1. Basado en las elecciones del año
 - Desarrollado en C
 - Utiliza windows.h
 - Config. Recomendado: Tamaño de ventana 120 X 38 y Tamaño Screen Buffer 120 X 38
+Compilar utilizando: gcc *.c -o juego.exe
