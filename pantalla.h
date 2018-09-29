@@ -1,0 +1,13 @@
+void gotoxy(int,int);
+void colorear(int);
+void imprimir_titulo_txt(char[]);
+void imprimir_cabecera_seleccion();
+void imprimir_detalles_juego(TJugador*,TMapa*);
+void gotoxy_imprimir_alrededor(int,int);
+void gotoxy_imprimir_caminos(TMapa*,int,int,int);
+void imprimir_titulo_tienda(char[]);
+void imprimir_foto_txt(char[]);
+void imprimir_eleccion(TJugador*);
+void imprimir_menu_tiendilla();
+void imprimir_votos_debate(TNodeCand*,int,TNodeCand*,int);
+void imprimir_uso_frase(int,char[]);

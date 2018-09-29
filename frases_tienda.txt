@@ -1,0 +1,28 @@
+Tienes un secretario que usa mucho la lavadora,1500,2000,1
+Tienes los mismos amigos malos que tenia tu papi,2000,1600,1
+Todos tus tios estan profugos,2500,1850,1
+Tu no has cambiado nada pelona,3000,2000,1
+Fuiste la primera dama de la corrupcion,4000,3500,1
+Ser presidenta sera tu primer trabajo,5000,4500,1
+Eres un ladron de saco y corbata,1500,1500,2
+Eres de escritorio,1500,1650,2
+Apoyaste al fujimorismo en el 2011,2000,1850,2
+Vendiste al pais,2500,2100,2
+Liberaras a Alberto,3000,2500,2
+Eres amigo de lo ajeno,1500,950,3
+Indultas a los chicos malos,1500,1000,3
+Encarnas la impunidad,2000,1800,3
+El pais ya no quiere charlatanes,2500,2500,3
+Destruiste y empobreciste al pais,3000,3000,3
+Eres amigo de Oropeza,2000,1500,3
+Tienes corazon aprista,1500,1400,4
+Eres un virrey,1500,1600,4
+Eres muy aburrido para nuestro pais,2500,2400,4
+No quieres el chicharron del pueblo,2000,1800,4
+Tu vida es un plagio,1500,1400,5
+Tu doctorado es bamba,1500,1800,5
+No sabes ni escribir tu nombre,2000,1800,5
+De donde salio todo tu dinero?,2500,2000,5
+Eres un payaso,2000,1600,6
+Eres un figureti,2500,2500,6
+Solo te hiciste famoso por molestar a Alan,1500,1350,6
